@@ -1,0 +1,4 @@
+- Type: Exploration/Combat
+- Hook: Recent storms have revealed a hidden entrance beneath the Old Dock
+- Challenge: Navigate flooded tunnels and deal with whatever lurks within
+- Reward: Potential treasure from smugglers' cache, 150-300 gp

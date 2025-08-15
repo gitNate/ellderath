@@ -1,0 +1,4 @@
+- Type: Mystery/Investigation
+- Hook: Fish catches have been mysteriously decreasing, and strange lights have been seen beneath the waves
+- Possible Causes: Merfolk conflict, underwater ruins awakening, or a sea hag's curse
+- Reward: 100-200 gp, plus the gratitude of the fishing community
