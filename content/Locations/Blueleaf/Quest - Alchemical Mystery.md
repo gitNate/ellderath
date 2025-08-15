@@ -1,1 +1,0 @@
-Quest Giver: [[NPC - Zink Brenwalyn]]
