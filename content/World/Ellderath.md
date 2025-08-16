@@ -1,5 +1,3 @@
-#Map
-
 ![[Ellderath World Map.png]]
 
 ![[EllderathDrawing]]
