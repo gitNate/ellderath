@@ -1,7 +1,5 @@
 ![[Ellderath World Map.png]]
 
-![[EllderathDrawing]]
-
 ## [[Alexandria]]
 
 ## [[Bayside]]
