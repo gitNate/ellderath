@@ -6,7 +6,11 @@
 
 ## [[Bellstone]]
 
+## [[The Blood Spring |Blood Spring]]
+
 ## [[Blueleaf]]
+
+## [[Breaking Sea]]
 
 ## [[Brightstone]]
 
@@ -24,11 +28,15 @@
 
 ## [[Ellrind]]
 
+## [[The Endless Wash | Endless Wash]]
+
 ## [[Fellstar Crater]]
 
 ## [[Frindar]]
 
 ## [[Galledrith]]
+
+## [[The Giants Maw | Giants Maw]]
 
 ## [[Green Shallows Swamp]]
 
@@ -65,8 +73,6 @@
 ## [[Springdoor]]
 
 ## [[Summerset]]
-
-## [[The Blood Spring]]
 
 ## [[Vinrick]]
 
