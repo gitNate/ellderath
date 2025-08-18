@@ -23,7 +23,7 @@ The guild is led by the Archmage, currently [[Archmage Caldus]], who is elected 
 
 _Note: The School of Necromancy is currently seeking a new Master._
 
-## Public Beliefs and Practices
+## Beliefs and Practices
 
 - **Magical Ethics**: Magic should be used responsibly and for the benefit of society
 - **Education**: All members must complete a rigorous magical education

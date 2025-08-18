@@ -10,21 +10,6 @@ A circular pool of crimson water, approximately 50 feet in diameter, surrounded 
 
 # Mystical Properties
 
-## Water Properties
-
-- The water appears to be blood-red but is actually clear with a magical red tint
-- Drinking the water grants temporary darkvision (1 hour) but causes vivid nightmares
-- The water can be used as a component in necromantic spells or in place of
-- ( #Grease #Naphtha #Brimstone )
-- ( #DevilBlood #GiantHeartsBlood #Bloodpurge #HydraBlood )
-- Items dipped in the water gain a permanent red tint and minor magical properties
-
-## Environmental Effects
-
-- Plants within 10 miles of the spring grow in inverted colors
-- Undead creatures are drawn to the area but cannot enter the water
-- Magical detection spells give false readings within the spring's influence
-
 # Dangers
 
 ## Natural Hazards

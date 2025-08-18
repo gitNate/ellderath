@@ -28,8 +28,8 @@ The Eyeless are a feared and secretive assassins guild that operates throughout 
 
 ## Public Symbols
 
-- **The Circle with X X**: Represents empty eye sockets
-- **White Masks**: Often feature empty eye sockets
+- **The Circle with X X**: Represents empty eye sockets 😵
+- **White Masks**: Often feature blacked out eye sockets
 - **Eye Motifs**: Various symbols incorporating eyes and blindness
 
 ## Public Warnings

@@ -27,12 +27,11 @@ The cult is led by a figure known as the High Whisperer, who is said to be able 
 
 ## Known Territories
 
-- **[[Ruindrice]]** - Rumored to be a major center of cult activity
 - **Throughout Ellderath** - Agents and sympathizers in many settlements
 
 ## Public Symbols
 
-- **A smiley face with a hand/finger silencing the face** - Their most recognizable symbol
+- **A smiley face with a hand/finger silencing the face** - Their most recognizable symbol 🤫
 
 ## Public Warnings
 

@@ -13,15 +13,11 @@ The Black Sun Marauders are a notorious group of desert raiders and bandits that
 
 **Scorch**: The enigmatic and feared leader of the Black Sun Marauders. Known for his tactical genius and merciless nature, Scorch commands unwavering loyalty from his followers. Rumors suggest he was once a military commander who turned to a life of crime, though the details of his past remain shrouded in mystery.
 
-## Public Beliefs and Practices
+## Beliefs and Practices
 
 - **Survival of the Fittest**: The Marauders value strength, cunning, and loyalty above all else. Weakness is not tolerated, and betrayal is met with swift and brutal punishment.
 
 - **Code of the Desert**: A set of unwritten rules that govern their conduct, emphasizing respect for the desert's dangers and the importance of secrecy and unity.
-
-- **Brutal Initiation**: All members must undergo a dangerous trial in the desert to prove their worth. The exact nature of these trials is unknown, but they are said to be extremely dangerous and often fatal.
-
-- **Barter and Trade**: The Marauders are skilled negotiators and traders, able to turn even the smallest advantage to their favor. They operate extensive black market networks throughout the region.
 
 ## Known Capabilities
 

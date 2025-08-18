@@ -6,12 +6,4 @@ The [[Black Sun Marauders]] are a ruthless bandit faction that has made the Ilga
 
 # Locations
 
-## Bone Fields
-
-## Hidden Citadel
-
-# Beasts #Beasts
-
-```statblock
-creature: Giant Scorpion
-```
+Sand, Dunes and the occasional worm sign?

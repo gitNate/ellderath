@@ -14,34 +14,6 @@ The forest is divided into three distinct regions:
 - **Central Region**: A mix of old and new growth, crisscrossed by well-maintained game trails. Near [[Creekside]]
 - **Southern Border**: Thinner forest that gradually gives way to the mountains near [[Vinrick]].
 
-# Wildlife
-
-## Common Encounters (CR 1-3)
-
-- Wolves and Dire Wolves: Hunt in packs, especially active at night
-- Giant Spiders: Build webs between trees in the northern region
-- Bandits: Use the forest as a hideout and ambush point
-- Giant Owls: Nest in the tallest trees
-- Brown Bears: Common in the central region
-- Giant Badgers: Dig extensive tunnel networks
-
-## Uncommon Encounters (CR 4-7)
-
-- Owlbears: Territorial creatures that claim large hunting grounds
-- Trolls: Lurk in the deepest parts of the forest
-- Ettins: Occasionally wander down from the mountains
-- Green Hags: Live in the northern region
-- Bandit Leaders: Command groups of bandits
-- Giant Boars: Aggressive and territorial
-
-## Rare Encounters (CR 8-12)
-
-- Treants: Ancient guardians of the forest
-- Displacer Beasts: Hunt in the northern region
-- Bandit Lords: Control larger groups of bandits
-- Young Green Dragons: Occasionally hunt in the forest
-- Fomorians: Rare visitors from the Feywild
-
 # Dangers
 
 - Dense undergrowth makes navigation difficult
@@ -52,7 +24,7 @@ The forest is divided into three distinct regions:
 
 # Factions
 
-- Local hunters from Brimbore and Ekkrith
+- Local hunters from [[Brimbore]] and [[Ekkrith]]
 - Bandit groups using the forest as a base
 - Druidic circles protecting the forest
 - Logging companies from Galledrith (limited operations)
@@ -62,17 +34,6 @@ The forest is divided into three distinct regions:
 
 - **The Old Growth**: A section of ancient trees in the northern region
 - **Hunter's Rest**: A series of well-maintained campsites along game trails south of [[Ekkrith]].
-
-# Random Encounters (d8)
-
-1. A group of hunters tracking game
-2. Bandits setting up an ambush
-3. A lost merchant caravan
-4. A wounded animal being pursued by predators
-5. A druid performing a ritual
-6. A forest fire threatening to spread
-7. A group of loggers from Galledrith
-8. A ranger patrol checking game trails
 
 # Local Rumors
 
