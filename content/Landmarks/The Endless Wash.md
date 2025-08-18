@@ -14,43 +14,7 @@ The ocean is divided into three main regions:
 - **The Middle Reach**: Dangerous but navigable
 - **The Expanse**: Mysterious and largely unexplored
 
-# Wildlife
-
-- See [[Random Encounters#Random Encounter in Water]]
-
-# Dangers
-
-- Sudden storms and hurricanes
-- Hidden reefs and rock formations
-- Pirate raids on shipping
-- Strong currents and whirlpools
-- Sea monsters in the deeper waters
-- Mysterious disappearances
-
-# Factions
-
-- Fishing fleets from coastal towns
-- Pirate groups using the waters
-- Merchant companies trading goods
-- Local fishermen's guilds
-- Naval patrols from major ports
-
-# Notable Features
-
-- **The Coastal Shelf**: A large area of relatively shallow water
-- **The Deep Trench**: An unexplored abyss
-
-# Random Encounters (d8)
-
-1. A fishing boat in distress
-2. Pirates raiding a merchant ship
-3. A sudden storm threatening ships
-4. A naval patrol checking for pirates
-5. A lost ship seeking safe harbor
-6. A group of fishermen from [[Galledrith]]
-7. A merchant vessel transporting goods
-
-# Local Rumors
+# Rumors
 
 1. "There's a lost continent beyond the horizon."
 2. "The deep trench is home to an ancient city."
@@ -58,7 +22,7 @@ The ocean is divided into three main regions:
 
 # Tags
 
-#Ocean #Landmark #Pirates #Merfolk #Trade #Dangerous #Mysterious
+#Ocean #Landmark #Trade
 
 # Related Locations
 
