@@ -2,10 +2,8 @@
 #Town
 
 # Overview
+
 Vinrick is a quaint village located north west of the [[Lightwell Pass]]. This unique position offers a blend of lush forest greenery and the rugged beauty of mountain terrain. The village is relatively isolated, providing a serene and peaceful environment for its inhabitants.
-
-
-
 
 Key Features
 
@@ -49,10 +47,9 @@ Cultural Aspects
 - Community Spirit: The villagers of Vinrick are known for their strong sense of community and mutual support. Festivals and communal gatherings are common, fostering a tight-knit, cooperative society.
 - Tradition and Lore: Rich in oral traditions, Vinrick’s culture is steeped in tales and legends passed down through generations. These stories often revolve around the forest, the mountains, and the village’s own history.
 
-
 # Overview
 
-// TODO: 
+// TODO:
 
 # Locations
 
@@ -60,6 +57,6 @@ Cultural Aspects
 
 ## (Inn / Tavern)
 
-## (General Store) 
+## (General Store)
 
 # Factions

@@ -3,7 +3,7 @@
 
 # Overview
 
-// TODO: 
+// TODO: [[TODO]]
 
 # Locations
 
@@ -11,8 +11,6 @@
 
 ## (Inn / Tavern)
 
-## (General Store) 
+## (General Store)
 
 # Factions
-
-
