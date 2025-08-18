@@ -4,44 +4,42 @@
 
 Bellstone is a vibrant mining town located to the east of the Green Shallows Swamp and south of the Melzick Planes. Known for its rich deposits of precious stones and metals, Bellstone has grown into a bustling hub of industry and commerce. The town's architecture reflects its prosperity, with sturdy stone buildings and well-maintained infrastructure.
 
+# Demographics & Culture
+
+## Customs:
+
+- Mining Festivals throughout the year with competitions, parades, and feasts
+- Strong communal spirit and pride in hardworking inhabitants
+
+## Laws:
+
+- Mining operations regulated through the Miner's Guild
+- Guild Hall serves as community center for town meetings
+
 # Locations
 
-## Mines (Mine)
+- Mines (Mine) - Heart of the town's economy
+- Market (General Store) - Trading hub for precious stones and metals
+- Smithies and Workshops - Skilled artisans and blacksmiths
+- The Gilded Anvil (Inn) - Lodging and meals for travelers
+- Guild Hall - Central hub for mining operations
+- Crystal Cavern - Natural wonder with crystal formations
 
-The heart of the town's economy, these extensive mines are a source of precious gemstones and valuable ores. The mines are both a place of opportunity and peril, with miners working tirelessly to extract the town's wealth.
-The mine is essentially a large pit in the center of this small town. Stone stairs have since been dug into the sides and spiral down into the depths. Maybe 200 ft down the there is a mineshaft and elevator that descends to the depths.
+# NPCs
 
-## Market (General Store)
-
-A bustling marketplace where traders and merchants from all over[[Ellderath]] come to buy and sell precious stones, metals, and crafted goods. The market is known for its lively atmosphere and the diverse array of products available. [[NPC - Merchant Elara]] sells gems and such for use in spell component's.
-
-## Smithies and Workshops
-
-Bellstone boasts numerous smithies and workshops where skilled artisans and blacksmiths forge exquisite jewelry, weapons, and tools. The [[NPC - Master Smith Nirud]] of Bellstone is highly regarded across the land.
-
-## The Gilded Anvil (Inn)
-
-A popular establishment providing lodging and meals for miners, traders, and travelers. The inn is renowned for its hearty food, comfortable rooms, and nightly entertainment. [[NPC - Innkeeper Mara]]
-
-## Guild Hall
-
-The central hub for the town's mining operations, where miners gather to receive their assignments and where ore and gems are appraised and distributed. The Guild Hall also serves as a community center for town meetings and events. [[NPC - Guild Master Torin]]
-
-## Crystal Cavern
-
-A natural wonder near Bellstone, this cavern is filled with stunning crystal formations that attract visitors and scholars alike. The cavern is also rumored to have hidden passages leading to rich, undiscovered veins of gems.
-
-# History
-
-- Mining Festivals: Bellstone celebrates its mining heritage with several festivals throughout the year, featuring competitions, parades, and feasts. These events highlight the town's communal spirit and the pride of its hardworking inhabitants.
-
-- The Lost Vein: An old legend speaks of a lost vein of incredibly rare and valuable gems hidden deep within the Bellstone Mines. Many miners and adventurers have sought it, but none have returned with proof of its existence.
-
-- Ghosts of the Mines: Some locals believe that the mines are haunted by the spirits of miners who perished in accidents. Tales of ghostly apparitions and eerie sounds are common among the town's residents.
+- [[NPC - Merchant Elara]] @ Market
+- [[NPC - Master Smith Nirud]] @ Smithies and Workshops
+- [[NPC - Innkeeper Mara]] @ The Gilded Anvil
+- [[NPC - Guild Master Torin]] @ Guild Hall
 
 # Factions
 
-- Miner's Guild
+- Miner's Guild - Central organization for mining operations
+
+# History
+
+Bellstone was founded as a mining settlement due to its rich deposits of precious stones and metals. The town has grown into a prosperous hub of industry and commerce, with its architecture reflecting its success. The Lost Vein legend speaks of a hidden vein of incredibly rare gems deep within the mines, though none have returned with proof of its existence. Some locals believe the mines are haunted by the spirits of miners who perished in accidents.
 
 # Tags
-#Town #Mine #Mining #Gems #Ore 
+
+#Town #Mine #Mining #Gems #Ore

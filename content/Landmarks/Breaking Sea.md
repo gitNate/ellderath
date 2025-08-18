@@ -9,3 +9,15 @@ The Breaking Sea is a treacherous expanse of water known for its sudden and viol
 - Stars are visible 60% of nights
 - Compasses work normally
 - Magical navigation items have 10% chance to malfunction during storms
+
+# Coastal Towns
+
+- [[Frindar]]
+- [[Dimreed]]
+- [[Summerset]]
+- [[Hillside]]
+- [[Bayside]]
+- [[Brimbore]]
+- [[Lakeford]]
+- [[New Point]]
+- [[Wallden]]
