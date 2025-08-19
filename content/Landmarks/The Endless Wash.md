@@ -1,5 +1,3 @@
-[[Ellderath]] #Ocean #Landmark #💧
-
 # Overview
 
 The vast western ocean that marks the edge of known Ellderath. The Endless Wash is known for its treacherous waters, unpredictable weather, and the mysterious fate of those who venture too far west. The coastal waters are heavily fished and traded, while the deeper waters remain largely unexplored.
@@ -31,3 +29,7 @@ The ocean is divided into three main regions:
 - [[Vinrick]]
 - [[Rodrith]]
 - [[Ruindrice]]
+
+# Tags
+
+#Ocean #Landmark #💧

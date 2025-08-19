@@ -1,5 +1,3 @@
-[[Ellderath]] #Landmark #Mountain #⛰️
-
 # Overview
 
 A massive mountain range that dominates the northern landscape of [[Ellderath]]. The mountains dominate the skyline, their jagged peaks reaching toward the sky with the tallest being an active volcano that constantly spews ash and smoke. Unlike typical mountain ranges, Mt. Vellan bears no snow - the volcanic activity keeps the peaks warm and barren, creating a stark contrast against the surrounding landscape. The mountain's mineral wealth and strategic position have made it a contested area between various factions.
@@ -43,3 +41,7 @@ The mountain range is divided into three main regions:
 - [[Pertance]]
 - [[New Point]]
 - [[Lakeford]]
+
+# Tags
+
+#Landmark #Mountain #Volcano #⛰️

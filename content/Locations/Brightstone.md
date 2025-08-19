@@ -1,5 +1,3 @@
-[[Ellderath]] #Town #Publish
-
 # Overview
 
 Brightstone sits nestled into the base of the [[Lightwell Pass]] with [[The Endless Wash]] to it's west and [[Green Shallows Swamp]] to it's south. A quaint town. A charming mountain town nestled at the base of the Lightwell Pass, known for its warm hospitality and skilled stoneworkers. The town serves as a peaceful waystation for travelers heading through the pass and a haven for those seeking refuge from the harsh mountain weather.
@@ -15,8 +13,6 @@ Founded 150 years ago by a group of stonemasons and miners who discovered rich v
 - **Town Watch**: Small group of volunteers who keep the peace and help travelers
 
 # Locations
-
-## Required Locations
 
 ### Brightstone Herbalist
 
@@ -36,7 +32,7 @@ A cozy stone cottage with a thatched roof, its windowsills lined with colorful f
 
 #Shop #Herbalist #Healing
 
-### Brightstone Inn & Tavern
+### Warm Hearth Inn & Tavern
 
 #### Description
 

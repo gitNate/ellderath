@@ -1,5 +1,3 @@
-[[Ellderath]] #Town
-
 # Overview
 
 Bellstone is a vibrant mining town located to the east of the Green Shallows Swamp and south of the Melzick Planes. Known for its rich deposits of precious stones and metals, Bellstone has grown into a bustling hub of industry and commerce. The town's architecture reflects its prosperity, with sturdy stone buildings and well-maintained infrastructure.

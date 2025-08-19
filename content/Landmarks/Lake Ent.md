@@ -1,5 +1,3 @@
-[[Ellderath]] #Landmark #Lake #💧
-
 # Overview
 
 A large freshwater lake that serves as a vital water source for the surrounding region. The lake is fed by numerous streams from [[Drimrith Forest]] and provides water for [[Galledrith]], [[Ekkrith]], and the surrounding farmlands. It's known for its clear waters, abundant fish, and the network of fishing villages along its shores.
@@ -41,3 +39,7 @@ The lake's waters are remarkably clear, allowing visibility up to 30 feet deep i
 - [[Galledrith]]
 - [[Ekkrith]]
 - [[Drimrith Forest]]
+
+# Tags
+
+#Landmark #Lake #💧

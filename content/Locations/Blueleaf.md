@@ -1,5 +1,3 @@
-[[Ellderath]] #Town
-
 # Overview
 
 Blueleaf is a unique settlement built in harmony with the dangerous swamp environment, protected by an ancient pact with the [[NPC - Swamp Guardian]]. The settlement's existence is made possible by this supernatural protection, which keeps the more dangerous swamp creatures at bay while allowing the community to thrive in this challenging environment.

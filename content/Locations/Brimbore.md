@@ -1,7 +1,3 @@
-[[Ellderath]] #Town
-
-> **Note**: This template is specifically for towns and settlements. For landmarks, geographical features, or dungeons, use their respective templates.
-
 # Overview
 
 {Required: A brief description of the town, its purpose, and notable characteristics}

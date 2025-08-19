@@ -42,64 +42,6 @@ const defaultOptions: GraphOptions = {
     removeTags: [],
     focusOnHover: false,
     enableRadial: false,
-    colorGroups: [
-      {
-        query: "tag: #NPC  ",
-        color: {
-          a: 1,
-          rgb: 16711680,
-        },
-      },
-      {
-        query: "file: NPC - ",
-        color: {
-          a: 1,
-          rgb: 16711680,
-        },
-      },
-      {
-        query: "tag: #Town",
-        color: {
-          a: 1,
-          rgb: 3352052,
-        },
-      },
-      {
-        query: "tag: #Landmark",
-        color: {
-          a: 1,
-          rgb: 11621088,
-        },
-      },
-      {
-        query: "tag: #Quest",
-        color: {
-          a: 1,
-          rgb: 65280,
-        },
-      },
-      {
-        query: "file: Quest - ",
-        color: {
-          a: 1,
-          rgb: 65280,
-        },
-      },
-      {
-        query: "tag: #Faction",
-        color: {
-          a: 1,
-          rgb: 16494606,
-        },
-      },
-      {
-        query: "tag: #Enounter",
-        color: {
-          a: 1,
-          rgb: 35840,
-        },
-      },
-    ],
   },
   globalGraph: {
     drag: true,
@@ -115,64 +57,6 @@ const defaultOptions: GraphOptions = {
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
-    colorGroups: [
-      {
-        query: "tag: #NPC  ",
-        color: {
-          a: 1,
-          rgb: 16711680,
-        },
-      },
-      {
-        query: "file: NPC - ",
-        color: {
-          a: 1,
-          rgb: 16711680,
-        },
-      },
-      {
-        query: "tag: #Town",
-        color: {
-          a: 1,
-          rgb: 3352052,
-        },
-      },
-      {
-        query: "tag: #Landmark",
-        color: {
-          a: 1,
-          rgb: 11621088,
-        },
-      },
-      {
-        query: "tag: #Quest",
-        color: {
-          a: 1,
-          rgb: 65280,
-        },
-      },
-      {
-        query: "file: Quest - ",
-        color: {
-          a: 1,
-          rgb: 65280,
-        },
-      },
-      {
-        query: "tag: #Faction",
-        color: {
-          a: 1,
-          rgb: 16494606,
-        },
-      },
-      {
-        query: "tag: #Enounter",
-        color: {
-          a: 1,
-          rgb: 35840,
-        },
-      },
-    ],
   },
 }
 

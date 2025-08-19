@@ -1,5 +1,3 @@
-[[Ellderath]] #Town
-
 # Overview
 
 Bayside is a quaint, small village located just north of the [[Lightwell Pass]]. Known for its serene beaches and picturesque views, Bayside serves as a peaceful haven for fishermen, artisans, and travelers seeking respite from their journeys. The village has a population of approximately 800 people and is primarily inhabited by humans, with a small community of half-elves and halflings.

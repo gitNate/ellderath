@@ -1,5 +1,3 @@
-[[Ellderath]] #Landmark #Mountain #⛰️
-
 # Key Features of the Knifepoint Peaks
 
 ## **Fabled Green Dragon:** Legends speak of a powerful green dragon that once roamed the Knifepoint Peaks, its scales blending with the lush foliage of the mountains. The dragon has not been seen for centuries, but its legend persists, a tale of terror and majesty passed down through generations. Some say the dragon still sleeps within a hidden cave, guarding a treasure hoard beyond imagination. #DragonDust #MetallicDragonEye
@@ -25,3 +23,7 @@
 
 - [[NPC - Grim Ironbeard]] - Dwarf from this area, now lives in [[Celladane]]
 - [[NPC - Thorin Frostforge]] - Dwarf from this area, now lives in [[Celladane]]
+
+# Tags
+
+#Landmark #Mountain #⛰️

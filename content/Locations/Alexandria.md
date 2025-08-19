@@ -1,5 +1,3 @@
-[[Ellderath]] #Town
-
 # Overview:
 
 Alexandria, nestled on the southeastern coast of a rugged peninsula, is a town shaped by the harsh realities of its surroundings. Bordered by the unforgiving [[Illgadar Desert]] to the west and the treacherous [[The Giants Maw]] to the South and East, Alexandria's culture has evolved to be resilient, cautious, and fiercely protective. The frequent threats from bandits, harsh desert conditions, and lurking dangers have made Alexandrians wary of outsiders, fostering a community that values strength, vigilance, and self-reliance.

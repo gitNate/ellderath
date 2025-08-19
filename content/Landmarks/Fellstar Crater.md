@@ -1,5 +1,3 @@
-[[Ellderath]] #Landmark #Crater #⛰️
-
 # Overview
 
 A massive impact crater that has become a unique ecosystem in the region. The crater's steep walls and unusual terrain make it a natural barrier, while its mineral-rich soil and unique features have attracted both scientific interest and opportunistic fools.
@@ -37,7 +35,7 @@ The crater is divided into three main regions:
 
 # Tags
 
-#Crater #Landmark #Mining #Bandits #Dangerous #Geological
+#Crater #Landmark #Mining #Bandits #Dangerous #Geological #⛰️
 
 # Related Locations
 

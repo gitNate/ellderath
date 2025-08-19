@@ -1,5 +1,3 @@
-[[Ellderath]] #Landmark #Forest #🌲
-
 # Overview
 
 A vast temperate forest. The forest is known for its dense canopy, ancient trees, and the network of game trails that have been used by hunters and travelers for generations.
@@ -42,10 +40,6 @@ The forest is divided into three distinct regions:
 3. "The druids can communicate with the ancient trees."
 4. "The forest is slowly expanding its borders."
 
-# Tags
-
-#Forest #Landmark #Dangerous #Wildlife #Bandits #Druids #Hunting
-
 # Related Locations
 
 - [[Brimbore]]
@@ -56,3 +50,7 @@ The forest is divided into three distinct regions:
 - [[Wolfrick]]
 - [[Creekside]]
 - [[Vinrick]]
+
+# Tags
+
+#Forest #Landmark #Dangerous #Wildlife #Bandits #Druids #Hunting #🌲
