@@ -1,6 +1,3 @@
-[[Ellderath]]
-#Town
-
 # Overview
 
 Vinrick is a quaint village located north west of the [[Lightwell Pass]]. This unique position offers a blend of lush forest greenery and the rugged beauty of mountain terrain. The village is relatively isolated, providing a serene and peaceful environment for its inhabitants.
