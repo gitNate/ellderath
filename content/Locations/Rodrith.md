@@ -1,20 +1,20 @@
-[[Ellderath]] #Town
-
 # Overview
 
-// TODO: 
+// TODO:
 
-# Locations
+# History
 
-## (Herbalism Shop)
+# Places of Interest
 
-## (Inn / Tavern)
-
-## (General Store) 
+# People of Interest
 
 # Factions
-Rodrith
-Key Features of Rodrith
+
+# Laws & Customs
+
+# Related Locations
+
+# Tags
 
 1. Cliffside Location: Rodrith is dramatically perched on the edge of towering cliffs overlooking the Breaking Sea. The cliffs provide a breathtaking view of the endless ocean and the bustling maritime activities below. The town’s architecture takes advantage of this elevation, with many buildings featuring large windows and terraces that offer panoramic views.
 

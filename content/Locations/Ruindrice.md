@@ -1,5 +1,3 @@
-[[Ellderath]] #Town
-
 # Overview
 
 // TOOD: Generate Description of City with the [[Green Shallows Swamp]] to it's north and Mountains to it's south.
@@ -7,15 +5,12 @@
 - Ancient Ruins: Scattered throughout Ruindrice are remnants of ancient structures, from crumbling towers to half-buried temples. These ruins give the town its name and hint at a long-lost civilization that once thrived here.
 - Exploration Opportunities: The ruins attract archaeologists, adventurers, and treasure hunters, all hoping to uncover hidden artifacts or lost knowledge. However, these ruins are often fraught with traps and dangers.
 
-# Locations
+# History
 
-## (Herbalism Shop)
+# Places of Interest
 
-## (Inn / Tavern)
+# People of Interest
 
-## (General Store) 
-
-# Factions
 # Factions
 
 - [[Eyeless]] Outpost
@@ -23,11 +18,18 @@
 - [[Mages Guild]] Outpost
 - [[Whispering Circle]] Stronghold
 
+# Laws & Customs
+
+# Related Locations
+
+# Tags
+
 Key Features
 
 1. Ruined Structures:
 
-- 
+-
+
 1. The Fortress Wall:
 
 - Defensive Structures: Given its proximity to both the mountains and the marsh, Ruindrice has fortified walls and watchtowers. These defenses are crucial in protecting the town from potential threats, including bandit raids and creatures emerging from the marsh.

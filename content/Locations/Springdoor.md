@@ -1,10 +1,20 @@
-[[Ellderath]] #Town
-
-# Overview 
+# Overview
 
 // TODO: Describe Springdoor based on Location and available shops
 
-# Locations
+# History
+
+# Places of Interest
+
+# People of Interest
+
+# Factions
+
+# Laws & Customs
+
+# Related Locations
+
+# Tags
 
 ## Shrooms & Secrets (Herbalism Shop)
 
@@ -94,9 +104,11 @@ Prominently placed at the edge of the main square, its broad sun-facing doors ar
 Built from pale sandstone, the temple seems to glow faintly at sunrise. Stained glass windows depict the triumphs of Pelor, and the air always smells faintly of sun-warmed cedar and myrrh. Behind the temple lies a quaint graveyard, filled with engraved markers, sun-discs, and flowering vines kept in immaculate order by temple volunteers (and possibly divine magic).
 
 #### NPCs
+
 - [[NPC - Anselard Blumenthal]] - #Priest
 
 #### Quests
+
 - [[Quest - The Dark Side of Faith]]
 
 ### Tags

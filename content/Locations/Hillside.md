@@ -1,25 +1,32 @@
-[[Ellderath]] #Town
-
 # Overview
 
 Hillside is a picturesque town nestled amidst gentle slopes and rolling hills to the south of [[Springdoor]] and west of [[Melzick Plains]]. Its idyllic setting, with panoramic views of the surrounding countryside, makes it a charming and tranquil place. The town's economy thrives on agriculture, vineyards, and artisanal crafts, with a strong emphasis on community and sustainability.
 
-# History & Background
+# History
 
 Founded by a group of farmers and vintners seeking ideal growing conditions, Hillside has maintained its agricultural roots while developing into a center for fine #Wine production. The town's terraced farming techniques were developed over generations, creating a unique landscape that has become its defining feature.
 
-# Demographics & Culture
-
-Population: ~1,500
-Major Races: Humans (70%), Halflings (20%), Elves (5%), Others (5%)
-Notable Customs:
+# Places of Interest
 
 - Annual #Wine Harvest Festival
 - Weekly Market Day
 - Seasonal Vine Pruning Ceremonies
 - Community Pottery Workshops
 
-# Local Laws & Government
+# People of Interest
+
+- Town Council: Elected representatives from major farming families
+- Vineyard Wardens: Oversee wine production and quality standards
+- Market Masters: Regulate trade and commerce
+
+# Factions
+
+- Strict quality control for wine production
+- Protected status for terraced farmland
+- Curfew during harvest season
+- No large-scale construction without council approval
+
+# Laws & Customs
 
 - Town Council: Elected representatives from major farming families
 - Vineyard Wardens: Oversee wine production and quality standards
@@ -30,7 +37,9 @@ Notable Customs:
   - Curfew during harvest season
   - No large-scale construction without council approval
 
-# Locations
+# Related Locations
+
+# Tags
 
 ### Hillside Herbalist (Herbalism Shop)
 

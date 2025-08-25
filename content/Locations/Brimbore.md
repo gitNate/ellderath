@@ -8,7 +8,7 @@ Example:
 A bustling port town on the western coast, known for its fresh seafood and skilled shipwrights. The town serves as a major trading hub between the inland settlements and the Endless Wash.
 ```
 
-# History & Background
+# History
 
 {Optional: Key historical events, founding, and significant changes}
 
@@ -18,7 +18,7 @@ Example:
 Founded 200 years ago by a group of shipwrights seeking a safe harbor, the town has grown from a simple fishing village to a major trading port. The construction of the stone harbor 50 years ago marked the town's rise to prominence.
 ```
 
-# Local Laws & Government
+# Places of Interest
 
 {Required: Basic laws, governing structure, and notable regulations}
 
@@ -30,9 +30,17 @@ Example:
 - Notable Laws: No weapons in market district, Mandatory ship inspections
 ```
 
-# Locations
+# People of Interest
 
 {Each town must have these three locations}
+
+# Factions
+
+# Laws & Customs
+
+# Related Locations
+
+# Tags
 
 ### {title} Herbalist
 

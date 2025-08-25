@@ -1,20 +1,26 @@
-[[Ellderath]] #Town
-
 # Overview
 
 Celladane is a hardy town situated in a valley between the high peaks. It is known for its stone architecture, built to withstand the harsh winters and frequent snowstorms. The town's economy is primarily based on mining precious metals and gems from the mountains and trading them with neighboring regions.
 
-# History & Background
+# History
 
 Founded by hardy mountain folk seeking refuge from the harsh winters, Celladane began as a simple mining settlement. Over generations, the town grew into a major trading hub as the quality of its precious metals and gems became known throughout [[Ellderath]]. The construction of the Frostforge Foundry marked the town's rise to prominence as a center of exceptional craftsmanship.
 
-# Local Laws & Government
+# Places of Interest
 
 - **Miner's Council**: Elected representatives from the major mining families govern the town
 - **Stonewardens**: Local militia that enforces laws and protects the mines
 - **Notable Laws**: Mandatory mine safety inspections, Curfew during winter storms, Weapons restricted in market district
 
-# Locations
+# People of Interest
+
+# Factions
+
+# Laws & Customs
+
+# Related Locations
+
+# Tags
 
 ## Stonehearth Remedies
 
