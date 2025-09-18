@@ -8,6 +8,6 @@ Key Features:
 - Winding Rivers: Several small rivers and streams crisscross the plains, providing a reliable water source for the cattle and contributing to the fertility of the land.
 - Herding Trails: Well-worn trails used by cattle herders and traders to move their livestock between [[Middle Point]] and [[Springdoor]].
 
-# Tags
+**Tags:**
 
 #Landmark #Plains #Bloodgrass

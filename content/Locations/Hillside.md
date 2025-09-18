@@ -39,7 +39,7 @@ Founded by a group of farmers and vintners seeking ideal growing conditions, Hil
 
 # Related Locations
 
-# Tags
+**Tags:**
 
 ### Hillside Herbalist (Herbalism Shop)
 
@@ -57,7 +57,7 @@ A charming cottage surrounded by a well-tended herb garden. The shop specializes
 - [[Quest Name]] - "Rare herbs needed for a special vintage"
 - [[Quest Name]] - "Cure for a mysterious vine blight"
 
-#### Tags
+**Tags:**
 
 #Shop #Herbalist #Healing #Vineyard
 
@@ -77,7 +77,7 @@ A two-story inn with a warm, rustic atmosphere. The ground floor features a cozy
 - [[Quest Name]] - "Protect the wine shipment"
 - [[Quest Name]] - "Find the missing vintage"
 
-#### Tags
+**Tags:**
 
 #Inn #Tavern #Food #Lodging #Wine
 
@@ -97,7 +97,7 @@ A well-organized store carrying farming supplies, household goods, and local cra
 - [[Quest Name]] - "Deliver supplies to remote vineyards"
 - [[Quest Name]] - "Investigate missing shipments"
 
-#### Tags
+**Tags:**
 
 #Shop #Supplies #Trade #Farming
 
@@ -119,7 +119,7 @@ The bustling heart of the town, featuring permanent stalls and temporary vendors
 - [[Quest Name]] - "Protect the market during festival"
 - [[Quest Name]] - "Find rare crafting materials"
 
-#### Tags
+**Tags:**
 
 #Market #Trade #Community
 
@@ -139,7 +139,7 @@ The town's largest and most prestigious winery, featuring extensive cellars and 
 - [[Quest Name]] - "Investigate wine counterfeiting"
 - [[Quest Name]] - "Recover stolen vintage"
 
-#### Tags
+**Tags:**
 
 #Winery #Tourism #Production
 
@@ -159,7 +159,7 @@ A charming stone chapel perched on a hill overlooking the town. The building fea
 - [[Quest Name]] - "Restore the chapel bell"
 - [[Quest Name]] - "Protect the harvest blessing ceremony"
 
-#### Tags
+**Tags:**
 
 #Religious #Community #Landmark
 
@@ -236,7 +236,7 @@ Winter:
 4. "The chapel's bell has magical properties"
 5. "A mysterious blight is affecting the northern vineyards"
 
-# Tags
+**Tags:**
 
 #Town #Agricultural #Wine #Crafts #Tourism #Peaceful
 

@@ -20,7 +20,7 @@ Founded by hardy mountain folk seeking refuge from the harsh winters, Celladane 
 
 # Related Locations
 
-# Tags
+**Tags:**
 
 ## Stonehearth Remedies
 
@@ -50,7 +50,7 @@ A warm, stone-walled shop with a large hearth always burning. The shop specializ
 - [[Quest - The Miner's Curse]] - Miners are falling ill with an unknown condition that Thorne's usual remedies can't treat. [[NPC - Thorne Stonehearth]] || [[NPC - Grim Ironbeard]]
 - [[Quest - The Frostpeak Expedition]] - Gathering rare herbs from the dangerous high peaks [[NPC - Thorne Stonehearth]] || [[NPC - Grim Ironbeard]]
 
-#### Tags
+**Tags:**
 
 #Shop #Herbalist #Healing
 
@@ -69,7 +69,7 @@ The **Frostpeak Lodge** is a sturdy three-story building with thick stone walls 
 - [[Quest - The Frozen Traveler]] - A guest has been found frozen to death in their room, despite the lodge being warm
 - [[Quest - The Missing Merchant]] - A regular guest has disappeared while staying at the lodge
 
-#### Tags
+**Tags:**
 
 #Inn #Tavern #Food #Lodging
 
@@ -85,7 +85,7 @@ The **Mountain Supply Co.** is a well-stocked store carrying mining equipment, w
 
 #### Resource: [[Shop Catalog.pdf|Shop Catalog - General Store]]
 
-#### Tags
+**Tags:**
 
 #Shop #Supplies #Trade
 
@@ -101,7 +101,7 @@ A renowned smithy that uses the rare metals and gems from the mines to create ex
 
 #### Resource: [[Shop Catalog.pdf|Shop Catalog - Blacksmith]]
 
-#### Tags
+**Tags:**
 
 #Smithy #Crafting #Weapons
 
@@ -129,7 +129,7 @@ A renowned smithy that uses the rare metals and gems from the mines to create ex
 7. [[Quest - The Frostpeak Expedition]] - Thorne needs help gathering rare herbs from the dangerous high peaks [[NPC - Thorne Stonehearth]] | [[NPC - Grim Ironbeard]]
 8. [[Quest - The Frozen Traveler]] - A guest has been found frozen to death in their room, despite the lodge being warm [[NPC - Mara Frostpeak]]
 
-# Tags
+**Tags:**
 
 #Town #Mining #Mountain #Cold #Trade
 

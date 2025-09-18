@@ -14,4 +14,4 @@
 
 # Related Locations
 
-# Tags
+**Tags:**

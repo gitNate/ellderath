@@ -6,6 +6,6 @@ The [[Black Sun Marauders]] are a ruthless bandit faction that has made the Ilga
 
 Sand, Dunes and the occasional [worm sign](https://youtu.be/BdtiYwSP9ko?si=wLIIWnis-zxVuFaC&t=285)?
 
-# Tags
+**Tags:**
 
 #Landmark #Dessert #🔥

@@ -46,7 +46,8 @@ Alexandria was founded by survivors of a great sandstorm that destroyed several 
 - [[Frindar]]
 - [[Illgadar Desert]]
 - [[Dimreed]]
+- [[The Giants Maw]]
 
-# Tags
+**Tags:**
 
 #Town #Desert #Coastal #Trading #Defensive #Religious #Herbalist

@@ -33,7 +33,7 @@ The crater is divided into three main regions:
 1. "The crater was formed by a magical meteor."
 2. "There are valuable minerals deep in the crater walls."
 
-# Tags
+**Tags:**
 
 #Crater #Landmark #Mining #Bandits #Dangerous #Geological #⛰️
 

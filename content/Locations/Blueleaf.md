@@ -38,6 +38,11 @@ Blueleaf was founded through an ancient pact with the Swamp Guardian, an ancient
 
 # Related Locations
 
-# Tags
+- [[Green Shallows Swamp]]
+- [[Rodrith]]
+- [[Ruindrice]]
+- [[The Blood Spring]]
+
+**Tags:**
 
 #Town #SwampSettlement #Guardian #Protected #Harmony #Community #Trade #Spiritual

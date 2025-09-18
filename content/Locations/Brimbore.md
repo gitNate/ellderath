@@ -1,13 +1,5 @@
 # Overview
 
-{Required: A brief description of the town, its purpose, and notable characteristics}
-
-Example:
-
-```
-A bustling port town on the western coast, known for its fresh seafood and skilled shipwrights. The town serves as a major trading hub between the inland settlements and the Endless Wash.
-```
-
 # History
 
 {Optional: Key historical events, founding, and significant changes}
@@ -40,7 +32,7 @@ Example:
 
 # Related Locations
 
-# Tags
+**Tags:**
 
 ### {title} Herbalist
 
@@ -62,7 +54,7 @@ A cozy shop filled with drying herbs and bubbling potions. The shop offers basic
 
 - [[Quest Name]] - {Brief hook}
 
-#### Tags
+**Tags:**
 
 #Shop #Herbalist #Healing
 
@@ -86,7 +78,7 @@ A two-story building with a lively common room below and comfortable rooms above
 
 - [[Quest Name]] - {Brief hook}
 
-#### Tags
+**Tags:**
 
 #Inn #Tavern #Food #Lodging
 
@@ -110,7 +102,7 @@ A well-stocked store carrying basic supplies, tools, and common goods. The store
 
 - [[Quest Name]] - {Brief hook}
 
-#### Tags
+**Tags:**
 
 #Shop #Supplies #Trade
 
@@ -132,7 +124,7 @@ A well-stocked store carrying basic supplies, tools, and common goods. The store
 
 - [[Quest Name]] - {Brief hook}
 
-#### Tags
+**Tags:**
 
 {Location specific tags}
 
@@ -171,7 +163,7 @@ Example:
 3. "Granny Smith sells delicious pies"
 ```
 
-# Tags
+**Tags:**
 
 #Town
 {Optional: Add any relevant tags}

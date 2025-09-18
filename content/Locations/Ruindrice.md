@@ -22,7 +22,7 @@
 
 # Related Locations
 
-# Tags
+**Tags:**
 
 Key Features
 

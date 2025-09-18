@@ -20,6 +20,6 @@ The Breaking Sea is a treacherous expanse of water known for its sudden and viol
 - [[New Point]]
 - [[Wallden]]
 
-# Tags
+**Tags:**
 
 #Landmark #Ocean #💧

@@ -32,7 +32,7 @@ The mountain range is divided into three main regions:
 2. "The crystal caves contain magical minerals."
 3. "The mountain is home to a lost dwarven city."
 
-# Tags
+**Tags:**
 
 #Mountain #Landmark #Mining
 
@@ -42,6 +42,6 @@ The mountain range is divided into three main regions:
 - [[New Point]]
 - [[Lakeford]]
 
-# Tags
+**Tags:**
 
 #Landmark #Mountain #Volcano #⛰️

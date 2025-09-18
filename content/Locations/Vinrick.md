@@ -44,4 +44,4 @@ Vinrick is a quaint village located north west of the [[Lightwell Pass]]. This u
 
 # Related Locations
 
-# Tags
+**Tags:**

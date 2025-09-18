@@ -11,6 +11,6 @@ Natural Hazards
 - Dense Fog: Dense fog often blankets the pass, reducing visibility to mere feet. This makes navigation extremely difficult and increases the risk of getting lost or stepping off the path.
 - Local legends speak of an ancient spirit that haunts the pass. It is said to appear as a ghostly figure in the fog, leading travelers to their doom.
 
-# Tags
+**Tags:**
 
 #Landmark #Mountain #MountainPass #⛰️

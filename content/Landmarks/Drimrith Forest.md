@@ -51,6 +51,6 @@ The forest is divided into three distinct regions:
 - [[Creekside]]
 - [[Vinrick]]
 
-# Tags
+**Tags:**
 
 #Forest #Landmark #Dangerous #Wildlife #Bandits #Druids #Hunting #🌲

@@ -18,4 +18,4 @@ Wintercrest, perched on a mountain ridge, offers breathtaking views of the snow-
 
 # Related Locations
 
-# Tags
+**Tags:**

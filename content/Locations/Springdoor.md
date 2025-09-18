@@ -14,7 +14,7 @@
 
 # Related Locations
 
-# Tags
+**Tags:**
 
 ## Shrooms & Secrets (Herbalism Shop)
 
@@ -40,7 +40,7 @@ A plaster-walled shop with a moss-green tile roof. Inside, the air is thick with
 - See [[Fetch Quest - Mana Tonic]] to make [[Herbalism#Mana Tonic]]
 - See [[Fetch Quest - Orcish War Paint]] to make [[Herbalism#Orcish War Paint]]
 
-### Tags
+**Tags:**
 
 #Shop #Alchemist
 
@@ -65,7 +65,7 @@ A well-organized general store with a distinctive sign featuring a one-eyed basi
 
 - [[Quest - The Basilisk's Eye]] - Thaddeus needs help tracking down a rare gem that matches the one in his store's sign, which has mysteriously gone missing.
 
-### Tags
+**Tags:**
 
 #Shop
 
@@ -91,7 +91,7 @@ A three-story timber-framed building with a slightly tilted roof that gives it i
 
 - [[Quest - The Missing Recipe]] - Martha's famous pie recipe has been stolen, and she needs help tracking down the culprit.
 
-### Tags
+**Tags:**
 
 #Inn #Tavern
 
@@ -111,7 +111,7 @@ Built from pale sandstone, the temple seems to glow faintly at sunrise. Stained 
 
 - [[Quest - The Dark Side of Faith]]
 
-### Tags
+**Tags:**
 
 #Temple #Quest
 
@@ -138,7 +138,7 @@ A sturdy stone building with a large chimney that constantly belches smoke. The 
 
 - [[Quest - The Dwarven Forge]] - Bronwyn needs help recovering an ancient dwarven forge that was recently discovered in the nearby mountains.
 
-### Tags
+**Tags:**
 
 #Blacksmith #Armor #Weapon #Shop
 
@@ -164,7 +164,7 @@ A two-story building with a facade that seems to shift colors depending on the t
 
 - [[Quest - The Resonating Tome]] - Eldara needs help tracking down a magical tome that's causing all the items in her shop to behave erratically.
 
-### Tags
+**Tags:**
 
 #Wizard #Shop #MagicItems
 
@@ -180,7 +180,7 @@ A sturdy stone building with a tall watchtower at each corner. The main entrance
 
 #### Quests
 
-### Tags
+**Tags:**
 
 #TownWatch #Militia #Army #Law
 
@@ -196,7 +196,7 @@ A stately two-story building of white stone and dark wood, with a clock tower th
 
 #### Quests
 
-### Tags
+**Tags:**
 
 #Law #Mayor #Government
 
@@ -223,7 +223,7 @@ A peaceful, well-maintained cemetery on the outskirts of town. Ancient oak trees
 
 - [[Quest - The Whispering Stones]] - [[NPC - Mortimer "The Shovel" Graves]] has noticed that the older graves have started to whisper at night, and he needs help investigating the cause before it disturbs the town's peace.
 
-### Tags
+**Tags:**
 
 #Cemetery #Graveyard #Gravekeeper
 

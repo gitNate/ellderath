@@ -21,4 +21,4 @@ Middle Point is a quaint, agricultural town located south of the Melzick Planes.
 
 # Related Locations
 
-# Tags
+**Tags:**

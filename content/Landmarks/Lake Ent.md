@@ -40,6 +40,6 @@ The lake's waters are remarkably clear, allowing visibility up to 30 feet deep i
 - [[Ekkrith]]
 - [[Drimrith Forest]]
 
-# Tags
+**Tags:**
 
 #Landmark #Lake #💧

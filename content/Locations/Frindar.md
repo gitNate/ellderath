@@ -21,4 +21,4 @@ Frindar is a fortified city known for its military might and strategic importanc
 
 # Related Locations
 
-# Tags
+**Tags:**

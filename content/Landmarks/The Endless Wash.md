@@ -18,7 +18,7 @@ The ocean is divided into three main regions:
 2. "The deep trench is home to an ancient city."
 3. "The storms are controlled by a powerful entity."
 
-# Tags
+**Tags:**
 
 #Ocean #Landmark #Trade
 
@@ -30,6 +30,6 @@ The ocean is divided into three main regions:
 - [[Rodrith]]
 - [[Ruindrice]]
 
-# Tags
+**Tags:**
 
 #Ocean #Landmark #💧

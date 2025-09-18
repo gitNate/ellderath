@@ -17,6 +17,6 @@ The Green Shallows Swamp is a sprawling, verdant swamp that lies to the west of 
 - [[Brightstone]] to the North
 - [[Rodrith]] to the West
 
-# Tags
+**Tags:**
 
 #Landmark #Swamp #💧

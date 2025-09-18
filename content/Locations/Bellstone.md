@@ -35,6 +35,15 @@ Bellstone was founded as a mining settlement due to its rich deposits of preciou
 
 # Related Locations
 
-# Tags
+- [[Brightstone]]
+- [[Hillside]]
+- [[Melzick Planes]]
+- [[Middle Point]]
+- [[Springdoor]]
+- [[The Blood Spring]]
+- [[Green Shallows Swamp]]
+- [[Portside]]
+
+**Tags:**
 
 #Town #Mine #Mining #Gems #Ore

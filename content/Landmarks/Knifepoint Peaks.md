@@ -24,6 +24,6 @@
 - [[NPC - Grim Ironbeard]] - Dwarf from this area, now lives in [[Celladane]]
 - [[NPC - Thorin Frostforge]] - Dwarf from this area, now lives in [[Celladane]]
 
-# Tags
+**Tags:**
 
 #Landmark #Mountain #⛰️

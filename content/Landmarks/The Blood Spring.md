@@ -6,6 +6,6 @@ The Blood Spring is a mystical area within the [[Green Shallows Swamp]] where th
 
 A circular pool of crimson water, approximately 50 feet in diameter, surrounded by twisted trees with blood-red leaves. The water's surface constantly ripples, as if alive, and emits a faint, pulsing (Heartbeat) glow. The air is thick with the scent of copper and ozone, and the temperature rises noticeably within 100 feet of the spring. Strange, bioluminescent fungi grow in patterns around the spring's edge, their glow intensifying at night.
 
-# Tags
+**Tags:**
 
 #Swamp #Landmark #💧 #⚡

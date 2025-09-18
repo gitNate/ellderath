@@ -40,6 +40,11 @@ Bayside was founded by a group of fishermen and sailors who discovered the shelt
 
 # Related Locations
 
-# Tags
+- [[Hillside]]
+- [[Lightwell Pass]]
+- [[Brightstone]]
+- [[Vinrick]]
+
+**Tags:**
 
 #Town #Coastal #Fishing

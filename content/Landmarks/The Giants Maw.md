@@ -7,6 +7,6 @@ The Giants Maw is a vast body of water, surrounded on three sides by land. To th
 - Local fishermen from [[Alexandria]] and [[Wintercrest]] maintain a careful watch
 - The [[Black Sun Marauders]] occasionally use the Maw for their operations
 
-# Tags
+**Tags:**
 
 #Ocean #Landmark #💧 #⚡
