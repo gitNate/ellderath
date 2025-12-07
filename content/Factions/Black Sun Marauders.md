@@ -1,5 +1,3 @@
-# Black Sun Marauders
-
 **Faction Type:** Marauder Band  
 **Alignment:** Chaotic Evil  
 **Threat Level:** High  
@@ -46,8 +44,7 @@ The Black Sun Marauders are a notorious group of desert raiders and bandits that
 
 ## Public Warnings
 
-Travelers are strongly advised to:
-
+Citizens are strongly advised to:
 - Avoid the [[Illgadar Desert]] unless absolutely necessary
 - Travel in well-armed caravans with experienced guides
 - Be wary of any "desert guides" offering suspiciously cheap services

@@ -1,6 +1,4 @@
-# Telgamil
-
-## Backstory
+# Backstory
 
 I, Telgamil was born beneath the wide, open sky of Brightfield Vale, a stretch of farmland just outside of [[Bellstone]] nestled between rolling hills in the [[Melzick Plains]]. My parents, Jorvan and Marla, were simple folk — honest, hardworking, and deeply faithful. They never treated my radiant eyes or faint silver glow as anything more than "a sign that the gods keep an eye on you, boy." They taught me to plow straight furrows, tend livestock, and thank the gods for both the sun and the rain.
 
@@ -18,7 +16,7 @@ Now, I walk the road as both protector and sower — of peace, of hope, and of t
 
 ---
 
-## What Telgamil Knows
+# What Telgamil Knows
 
 ### Local Knowledge (Brightfield Vale & Bellstone)
 

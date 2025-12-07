@@ -12,29 +12,24 @@ Self-conscious yet deeply informative, humor rarely passes his lips, though his 
 
 ---
 
-## What Thale Knows
+# What Thale Knows
 
-### Local Knowledge (Pertance & Merchant Quarter)
-
-#### Home Region
+## Local Knowledge [[Pertance]]
 
 - **[[Pertance]]**: Major city and headquarters of the [[Mages Guild]]
 - **Merchant Quarter**: Bustling commercial district where he grew up as a street urchin
 - **Tower of Pertance**: Massive structure housing the largest magical library in the known world
 - **Urban Environment**: Extensive knowledge of city streets, alleyways, and urban survival
-
-#### Pertance Details
-
 - **Mages Guild Headquarters**: Central hub for magical research, education, and regulation
 - **Constables**: Local law enforcement that patrols the merchant quarter
 - **Merchant Culture**: Understanding of trade, commerce, and the value of various goods
 - **Urban Infrastructure**: Knowledge of city layout, safe havens, and dangerous areas
 
-### Faction & Magical Knowledge
+## Faction & Magical Knowledge
 
-#### Mages Guild
+### Mages Guild
 
-- **Guild Structure**: Trained under [[Master Mephistra Shadowweave - Illusionist]], Master of Illusion
+- **Guild Structure**: Deep understanding of internal workings and hierarchy
 - **Council of Masters**: Seven Master Mages representing different schools of magic
 - [[Archmage Caldus]]: Current leader of the guild
 - **Guild Ethics**: Magic should be used responsibly, knowledge shared, research documented
@@ -42,20 +37,20 @@ Self-conscious yet deeply informative, humor rarely passes his lips, though his 
 
 #### School of Illusion
 
-- **Master Mephistra Shadowweave**: Tiefling illusionist with deep purple skin and silver-white hair
+- **[[Master Mephistra Shadowweave - Illusionist|Master Mephistra Shawdowweave]]**: Tiefling illusionist with deep purple skin and silver-white hair
 - **Illusion Techniques**: Training in creating realistic illusions, simulacrums, and magical deception
 - **Magical Components**: Knowledge of illusionary materials, mirrors, prisms, and magical tools
 - **Illusion Ethics**: Understanding of when and how to use illusions responsibly
 
 #### Other Schools of Magic
 
-- **Master Ignatius Flameheart**: School of Evocation
-- **Master Oshka MindPiercer**: School of Abjuration
-- **Master Nalara Virelith**: School of Conjuration
-- **Master Aerendriel Valthorne**: School of Divination
-- **Master Theron Blackwood**: School of Enchantment
-- **Master Zyre Thornevale**: School of Transmutation
-- **Master Necromancer**: Currently seeking Applicants
+- **Master Ignatius Flameheart**: Dragonborn evoker specializing in destructive magic
+- **Master Nalara Virelith**: Aasimar conjurer with elemental connections
+- **Master Aerendriel Valthorne**: Divination master with prophetic abilities
+- **Master Theron Blackwood**: Human enchanter with domination magic
+- **Master Mephistra Shadowweave**: Tiefling illusionist with reality-bending powers
+- **Master Zyre Thornevale**: Gnome transmuter with transformation magic
+- **Master Necromancer**: Currently seeking applicants
 
 ### Medical & Healing Knowledge
 

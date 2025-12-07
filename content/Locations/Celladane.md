@@ -107,7 +107,7 @@ A renowned smithy that uses the rare metals and gems from the mines to create ex
 
 # Factions & Organizations
 
-- [[Guild Of Shadows]] - [[NPC - Silent Step]]: Maintains a presence in the town, using the mining operations as cover for their activities
+- [[Guild of Shadows]] - [[NPC - Silent Step]]: Maintains a presence in the town, using the mining operations as cover for their activities
 - [[Mages Guild]]: Has a small chapter house for studying the magical properties of the local gems and metals
 
 # Trade & Resources

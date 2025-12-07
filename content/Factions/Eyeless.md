@@ -1,5 +1,3 @@
-# The Eyeless
-
 **Faction Type:** Assassins Guild  
 **Alignment:** Lawful Evil  
 **Threat Level:** Extreme  
@@ -9,7 +7,7 @@
 
 The Eyeless are a feared and secretive assassins guild that operates throughout [[Ellderath]]. Their name comes from their signature practice of removing the eyes of their victims, which they preserve as trophies. The guild is known for their professionalism, discretion, and absolute loyalty to their contracts. They maintain a strict code of conduct and are known to never break a contract once accepted.
 
-## Public Beliefs and Practices
+## Beliefs and Practices
 
 - **Kill Signature**: Each kill must be marked by the removal of the victim's eyes
 - **Professionalism**: Known for their absolute discretion and never breaking contracts once accepted
@@ -35,7 +33,6 @@ The Eyeless are a feared and secretive assassins guild that operates throughout 
 ## Public Warnings
 
 Citizens are strongly advised to:
-
 - Never discuss Eyeless business in public
 - Be extremely cautious of anyone asking about assassination services
 - Report any suspicious activity that might involve the guild

@@ -1,17 +1,10 @@
-# Overview
-
-**Guild:** [[Mages Guild]]
-**Class:** Abjuration Wizard
-**Occupation:** Guild Librarian
-**Race:**
-
-## Backstory
+# Backstory
 
 Findlewick Thistlebottom had his life all figured out. Born in the mossy glades outside the great city, he showed just enough magical aptitude in his youth to be accepted into the [[Mages Guild]] — but not so much that anyone expected greatness from him. Perfect. Instead of chasing glory, Findlewick secured a cushy post as the guild's librarian, where he could spend decades "maintaining the archives" (which mostly meant reading interesting books and napping in the sunny alcove near the east window).
 
 Over the years, he developed an almost artistic mastery of avoiding actual work. Need a heavy tome from the top shelf? Mage Hand. Need to cross the library? Tenser's Floating Disk. Need someone to deal with a noisy patron? That's what apprentices are for. His dream was simple: survive the next few decades surrounded by dusty tomes, teapots, and zero peril until a quiet retirement in the gnome-lands.
 
-Unfortunately, life had other plans. Somewhere between "Archmage Dorsival's Treatise on Wards" and his afternoon nap, Findlewick found himself "volunteered" by [[Master Oshka MindPiercer - Abjuration]] for an expedition — the kind involving danger, travel, and absolutely no comfortable chairs. No one was more annoyed than he was. Grumbling to himself while climbing onto his disk, "If they think I'm walking one blasted step of this journey, they've got another thing coming…"
+Unfortunately, life had other plans. Somewhere between "Archmage Dorsival's Treatise on Wards" and his afternoon nap, Findlewick found himself "volunteered" by [[Master Oshka MindPiercer - Abjuration|MasterOshka]] for an expedition — the kind involving danger, travel, and absolutely no comfortable chairs. No one was more annoyed than he was. Grumbling to himself while climbing onto his disk, "If they think I'm walking one blasted step of this journey, they've got another thing coming…"
 
 ## Desired Possessions
 
@@ -24,27 +17,22 @@ He wishes he had:
 
 ---
 
-## What Findlewick Knows
+# What Findlewick Knows
 
-### Local Knowledge (Pertance & Mossy Glades)
+## Local Knowledge [[Pertance]]
 
-#### Home Region
-
-- **Pertance**: Major city and headquarters of the [[Mages Guild]]
+- **[[Pertance]]**: Major city and headquarters of the [[Mages Guild]]
 - **Mossy Glades**: Rural area outside the city where he was born and raised
 - **Tower of Pertance**: Massive structure housing the largest magical library in the known world
 - **Urban vs. Rural**: Understanding of both city life and rural communities
-
-#### Pertance Details
-
 - **Mages Guild Headquarters**: Central hub for magical research, education, and regulation
 - **Guild Archives**: Extensive knowledge of the library's organization and contents
 - **City Layout**: Familiarity with urban infrastructure and cultural institutions
 - **Academic Environment**: Understanding of scholarly culture and intellectual pursuits
 
-### Faction & Magical Knowledge
+## Faction & Magical Knowledge
 
-#### Mages Guild
+### Mages Guild
 
 - **Guild Structure**: Deep understanding of internal workings and hierarchy
 - **Council of Masters**: All seven Master Mages representing different schools of magic

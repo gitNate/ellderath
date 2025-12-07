@@ -14,7 +14,7 @@
 # Factions
 
 - [[Eyeless]] Outpost
-- [[Guild Of Shadows]] - [[NPC - Whisper Wind]]
+- [[Guild of Shadows]] - [[NPC - Whisper Wind]]
 - [[Mages Guild]] Outpost
 - [[Whispering Circle]] Stronghold
 

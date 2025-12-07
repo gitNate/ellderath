@@ -1,5 +1,3 @@
-# The Mages Guild
-
 **Faction Type:** Magical Organization  
 **Alignment:** Lawful Good  
 **Threat Level:** Low (Protective)  

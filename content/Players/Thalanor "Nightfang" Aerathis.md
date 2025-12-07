@@ -21,13 +21,11 @@ When Thalanor delivers the killing blow with his psionic blade, the victim's sou
 
 ---
 
-## What Thalanor Knows
+# What Thalanor Knows
 
-### Local Knowledge [[Celladane]]
+## Local Knowledge [[Celladane]]
 
-#### Home Region
-
-- **Celladane**: A hardy mountain town known for stone architecture and mining operations
+- **[[Celladane]]**: A hardy mountain town known for stone architecture and mining operations
 - **Mountain Climate**: Experienced harsh winters, snowstorms, and extreme cold conditions
 - **Mining Economy**: Town's prosperity based on precious metals, gems, and stone building materials
 
